@@ -1,0 +1,10 @@
+{
+  "domain": "xiaomicamera",
+  "name": "XiaomiCamera",
+  "version": "0.0.1",
+  "documentation": "",
+  "dependencies": [
+    "zone"
+  ],
+  "codeowners": [""]
+}

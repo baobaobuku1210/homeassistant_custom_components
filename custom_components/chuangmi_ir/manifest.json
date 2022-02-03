@@ -1,0 +1,10 @@
+{
+  "domain": "chuangmi_ir",
+  "name": "chuangmi_ir",
+  "version": "2022.2.0",
+  "documentation": "https://github.com/dscao/homeassistant_custom_components/",
+  "dependencies": [
+    "switch"
+  ],
+  "codeowners": ["@SchumyHao"]
+}
